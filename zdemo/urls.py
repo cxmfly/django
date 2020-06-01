@@ -23,3 +23,4 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     url(r'^auser/',views.index),
 ]
+#
